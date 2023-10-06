@@ -47,7 +47,7 @@ const UserPhotoPost = () => {
       <form onSubmit={handleSubmit}>
         <Input label="Nome" type="text" name="nome" {...nome} />
         <Input label="Preço" type="number" name="preco" {...peso} />
-        <Input label="Quantidade" type="number" name="quantidade" {...idade} />
+        <Input label="Codigo" type="number" name="codigo" {...idade} />
         <input
           className={styles.file}
           type="file"
