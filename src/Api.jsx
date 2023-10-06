@@ -1,4 +1,4 @@
-export const API_URL = 'https://marketfacisa.kinghost.net/wp-json';
+export const API_URL = 'https://dogsapi.origamid.dev/json';
 
 export function TOKEN_POST(body) {
   return {

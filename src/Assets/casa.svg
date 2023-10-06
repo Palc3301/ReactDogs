@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- Casa -->
+  <rect x="20" y="40" width="60" height="40" />
+  <polygon points="10,40 50,10 90,40" />
+  <rect x="45" y="70" width="10" height="10" />
+  <!-- Sol -->
+  <circle cx="80" cy="20" r="10" />
+</svg>
